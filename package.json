@@ -1,7 +1,7 @@
 {
-  "homepage": "https://mnemonicneuro.github.io/shenanigancity",
+  "homepage": "https://mnemonicneuro.github.io/shenanigancity/",
   "name": "shenanigancity",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
